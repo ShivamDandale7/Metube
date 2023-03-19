@@ -1,0 +1,4 @@
+Step 1 - Install all the dependencies required visit package.json for dependency name
+Step 2 - 
+
+
